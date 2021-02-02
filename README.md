@@ -6,5 +6,5 @@ This is my first basic bash script that I am uploading on github, as this was cr
 
 
 Usage:-
-chmod +x *
+chmod 777 network_hack.sh
 sudo bash network_hack.sh
